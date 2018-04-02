@@ -9,4 +9,6 @@ To run the FAQ project:
 5. Run: php artisan migrate
 6. Run: unit tests: phpunit
 7. Run: seeds php artisan migrate:refresh --seed
- 
+
+
+YouTube Video Series on This Project: https://www.youtube.com/playlist?list=PLytMRtonvCRUjrQqKaQeOd2KoYq_ifcpD
