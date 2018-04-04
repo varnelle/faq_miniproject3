@@ -6,8 +6,9 @@ There is a training program for people to participate, so that we can all have t
 
 **The training program has 2 parts:**
 
-1.  Laravel Basics -> Laracast videos 1-20
-2.  FAQ project introduction videos 1-4 now; however, there will be a total of about 10 - 12 videos by the time I’m done with making the training program.  Videos 5-10 will be about blade templates, routes, controllers, forms, and more testing.
+1.  [Laravel Basics -> Laracast videos 1-20](https://laracasts.com/series/laravel-from-scratch-2017)
+
+2.  [FAQ project introduction](https://www.youtube.com/playlist?list=PLytMRtonvCRUjrQqKaQeOd2KoYq_ifcpD) videos 1-4 now; however, there will be a total of about 10 - 12 videos by the time I’m done with making the training program.  Videos 5-10 will be about blade templates, routes, controllers, forms, and more testing.
 
 The basic practices of this project are that you will take a task that is fairly small and complete the feature, testing, and everything needed to include that feature in the project.  Once we get going we will be using a task board.
 
