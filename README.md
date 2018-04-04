@@ -1,4 +1,4 @@
-# faq
+#faq
 
 ##To run the FAQ project:
 
@@ -55,3 +55,9 @@ There is a training program for people to participate, so that we can all have t
 The basic practices of this project are that you will take a task that is fairly small and complete the feature, testing, and everything needed to include that feature in the project.  Once we get going we will be using a task board.
 
 There are a few different jobs that we will need eventually.   For example, we may want to have someone to design the visual of the feature and / or write specifications.  Eventually we need people to work on the hosting on heroku or AWS.  We are also going to work on some data science things this summer.   I plan on converting the current FAQ project to use a graph database before launching it in the fall to use it in 5 classes with around 160 students.
+
+#Climb The Ladder - Roles and Process 
+
+1. You start of as a student trainee and must demonstrate completion of the FAQ tutorial and the Laravel basics through the screencast, if you know Laravel you can start with the FAQ project tutorial series
+2. Once you complete the tutorial you can be raised to a student developer and begin completing features
+3. Student Developers can be promoted to other roles in the future and specialize in areas such as devops, data science, mobile, etc...
