@@ -13,6 +13,23 @@ The basic practices of this project are that you will take a task that is fairly
 
 There are a few different jobs that we will need eventually.   For example, we may want to have someone to design the visual of the feature and / or write specifications.  Eventually we need people to work on the hosting on Heroku or AWS.  We are also going to work on some data science things this summer.   I plan on converting the current FAQ project to use a graph database before launching it in the fall to use it in 5 classes with around 160 students.
 
+## What do I (student)get out of this?
+
+1. Professional experience on a project that will be used by a large number of people.
+2. Students Developers will be featured in a "Hall of Fame" that hylights their contributions
+3. This is a chance to work on small pieces of a project and to gain experience using current industry standard processes and technologies.
+4. You help to build something that will last and can be used as a portfolio project that clearly identifies your contributions to the project
+5. You are able to work on a  project with a team of people and make important contributions 
+
+## What does NJIT / Professor Williams get out of this?
+
+1. Students always ask me about projects and I don't know what to do, so this is a streamlined way to help more students.
+2. I would like to upgrade the curriculum to focus more on data science and using Laravel will make developing a high quality application that will generate data for other classes
+3. I want to use this project to showcase what our students are able to do for employers, so we get name brand recognition by local employers
+4. I want investigate how technology can improve the educational experience and effectiveness for students.
+5. I feel that this is a safe way for students to get experience
+6. I feel this is way for students to demonstrate their abilities and hylight their work in a manageable way.
+
 
 ## Climb The Ladder - Roles and Process 
 
