@@ -13,10 +13,11 @@ class QuestionsTableSeeder extends Seeder
     {
         $users = App\User::all();
         $users->each(function ($user){
-            $question = factory(\App\Question::class)->make();
-            $question->user()->associate($user);
-            $question->save();
-
+            for ($i = 1; $i <= 20; $i++) {
+                $question = factory(\App\Question::class)->make();
+                $question->user()->associate($user);
+                $question->save();
+            }
         });
     }
 }
